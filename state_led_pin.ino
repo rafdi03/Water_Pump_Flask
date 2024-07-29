@@ -1,9 +1,9 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char *ssid = "Foodpedia Margonda Raya LT2";
-const char *password = "nasigorenghongkong";
-const char *serverAddress = "http://192.168.0.136:5000/state_iot"; // Replace with your server IP address
+const char *ssid = "***************";
+const char *password = "*************";
+const char *serverAddress = "http://****************/state_iot"; 
 
 const int LED_PIN = 2; // Assuming built-in LED pin is GPIO 2
 
